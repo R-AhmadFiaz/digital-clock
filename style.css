@@ -1,0 +1,17 @@
+   body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   flex-direction: column;
+}
+#time{
+    background-color: orange;
+    width: 150px;
+    height: 40px;
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 12px;
+    font-size: 30px;
+}
